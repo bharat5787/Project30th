@@ -659,3 +659,139 @@ git flow finsh feature f1
 git flow feature finish f1
 git branch
 git log --oneline
+ls
+touch help
+git add .
+git log --oneline
+ls
+touch test1file
+git add .
+git status
+git commit -m "committed"
+git status
+vim test1
+git add .
+git status -m "test1 committed"
+ls
+cd test1file
+cd test1
+test1
+cd EYConnect
+ls
+ls --help
+ls -a
+ls -s
+ls --sort
+ls -p
+ls -r
+ls
+ls --all
+ls -a
+ls --reverse
+ls -d
+cd test.html
+vim --help
+vim -v
+ls
+cd EYConnect
+ls -a
+vim -h
+ls
+vim dhk
+vim entity.lb
+git status
+git commit --help
+git rm-
+rm
+rm --help
+git status
+git rm-- entity.lb
+git rm- entity.lb
+git rm entity.lb
+git status
+vim entity.lb
+rm -r
+rm -r dhk
+touch testesttest
+git status
+git add .
+git unstage -
+git stage --help
+git stage testtest
+git stage testtesttest
+git status
+git commit -m "added commit"
+git status
+rm -r EyConnect
+rm -r -all
+rm -r testtesttest
+rm -r entity.lb
+ls
+rm -r testesttest
+ls
+ls -r
+ls ~/
+ls ~/.config
+ls ~/.git
+cd index
+git index
+git show-index
+ls
+cd EYConnect
+git status
+ls
+show 
+show --index
+git show --index
+git show -i
+git branch
+git checkout master
+git branch
+git show -i
+git diff dev..master
+git diff --dev..master
+git diff master..dev
+diff master..dev
+git diff master..dev
+git diff master..Dev
+diff testesttest
+ls
+diff Test.html
+git diff Test.html
+diff --help
+diff -s
+ls
+diff -s Test.html
+diff -s
+diff --help
+diff -v
+ls
+diff hdfkh Test.html
+git branch
+git checkout Dev
+git branch Dev
+ls
+diff GithubTest reporting.rb
+diff GithubTest file reporting.rb
+diff githubtest reporting.rb
+ls
+diff reporting.rb testesttest
+diff hdfkh reporting.rb testesttest
+diff Dev..master
+git diff Dev..master
+git diff master..Dev
+git branch
+cat GithubTest file
+cat GithubTest
+cat GithubTest file
+git checkout master
+ls
+cat GithubTest file
+cat GithubTestfile
+cat githubtest
+git checkout Dev
+git branch
+ls
+cat githubtest
+cat GithubTest
+cat GithubTest file
