@@ -795,3 +795,80 @@ ls
 cat githubtest
 cat GithubTest
 cat GithubTest file
+ls
+mkdir Project29th
+cd Project29th
+git version
+git status
+git add -A
+git status
+git version
+ls
+touch index1.html index1.pbx
+ls
+git branch
+ls ls
+git branch
+cd
+cd..
+mkdir testproj29th
+cd testproj29th
+git branch
+git branch -m ls Master
+git branch
+git branch -m dev Dev
+git branch
+git checkout Master
+git add -A
+git status
+git restore EYConnect
+git add .
+git status
+git commit -m "committed"
+git checkout master
+git branch
+git checkout Master
+git branch
+git checkout Dev
+git branch
+git branch -m Master master
+git branch
+git branch -m master ls
+git branch
+git branch -m Dev Master
+git branch
+git branch -m Master master
+git branch
+git checkout ls
+git branch
+git checkout master
+cd
+ls
+cd EYConnect
+git add -A
+git status
+git commit -m "committed"
+git status
+cd
+cd testproj29th
+ls
+git branch
+git checkout ls
+git checkout master
+cd
+git status
+git branch
+git add -A
+git status
+cd project24th
+ls
+git status
+git add -A
+git status
+git commit -m '2nd TEst committed"
+git status
+
+cd
+cd
+clear
+
