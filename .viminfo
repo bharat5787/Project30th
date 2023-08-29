@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1693265409,,"wq"
+|2,0,1693351918,,"wq"
 :wq!
 |2,0,1693265053,,"wq!"
 : wq
@@ -36,36 +36,68 @@
 |3,1,36,0,1,0,1693265167,"o"
 
 # File marks:
-'0  6  43  ~/EYConnect/entity.lb
-|4,48,6,43,1693265409,"~/EYConnect/entity.lb"
-'1  6  43  ~/EYConnect/entity.lb
-|4,49,6,43,1693265211,"~/EYConnect/entity.lb"
-'2  8  0  ~/EYConnect/dhk
-|4,50,8,0,1693265174,"~/EYConnect/dhk"
-'3  1  13  ~/test1
-|4,51,1,13,1693264631,"~/test1"
-'4  2  28  ~/project24th/2ndtest
-|4,52,2,28,1693107908,"~/project24th/2ndtest"
-'5  2  4  ~/project24th/.gitignore
-|4,53,2,4,1693106065,"~/project24th/.gitignore"
-'6  2  0  ~/purdue-demo/Bharat.txt
-|4,54,2,0,1693024567,"~/purdue-demo/Bharat.txt"
-'7  1  0  ~/project24th/.git/MERGE_MSG
-|4,55,1,0,1693019153,"~/project24th/.git/MERGE_MSG"
-'8  2  0  ~/project24th/project1test.rb
-|4,56,2,0,1692929681,"~/project24th/project1test.rb"
-'9  2  0  ~/EYConnect/githubtest
-|4,57,2,0,1692825941,"~/EYConnect/githubtest"
+'0  2  62  ~/Project29th/index1.html
+|4,48,2,62,1693351918,"~/Project29th/index1.html"
+'1  2  0  ~/Project29th/index1.html
+|4,49,2,0,1693351848,"~/Project29th/index1.html"
+'2  6  43  ~/EYConnect/entity.lb
+|4,50,6,43,1693265409,"~/EYConnect/entity.lb"
+'3  6  43  ~/EYConnect/entity.lb
+|4,51,6,43,1693265211,"~/EYConnect/entity.lb"
+'4  8  0  ~/EYConnect/dhk
+|4,52,8,0,1693265174,"~/EYConnect/dhk"
+'5  1  13  ~/test1
+|4,53,1,13,1693264631,"~/test1"
+'6  2  28  ~/project24th/2ndtest
+|4,54,2,28,1693107908,"~/project24th/2ndtest"
+'7  2  4  ~/project24th/.gitignore
+|4,55,2,4,1693106065,"~/project24th/.gitignore"
+'8  2  0  ~/purdue-demo/Bharat.txt
+|4,56,2,0,1693024567,"~/purdue-demo/Bharat.txt"
+'9  1  0  ~/project24th/.git/MERGE_MSG
+|4,57,1,0,1693019153,"~/project24th/.git/MERGE_MSG"
 
 # Jumplist (newest first):
+-'  2  62  ~/Project29th/index1.html
+|4,39,2,62,1693351918,"~/Project29th/index1.html"
+-'  2  0  ~/Project29th/index1.html
+|4,39,2,0,1693351848,"~/Project29th/index1.html"
+-'  1  0  ~/Project29th/index1.html
+|4,39,1,0,1693351825,"~/Project29th/index1.html"
+-'  1  0  ~/Project29th/index1.html
+|4,39,1,0,1693351825,"~/Project29th/index1.html"
 -'  6  43  ~/EYConnect/entity.lb
 |4,39,6,43,1693265409,"~/EYConnect/entity.lb"
+-'  6  43  ~/EYConnect/entity.lb
+|4,39,6,43,1693265409,"~/EYConnect/entity.lb"
+-'  6  43  ~/EYConnect/entity.lb
+|4,39,6,43,1693265409,"~/EYConnect/entity.lb"
+-'  6  43  ~/EYConnect/entity.lb
+|4,39,6,43,1693265409,"~/EYConnect/entity.lb"
+-'  6  43  ~/EYConnect/entity.lb
+|4,39,6,43,1693265211,"~/EYConnect/entity.lb"
+-'  6  43  ~/EYConnect/entity.lb
+|4,39,6,43,1693265211,"~/EYConnect/entity.lb"
+-'  6  43  ~/EYConnect/entity.lb
+|4,39,6,43,1693265211,"~/EYConnect/entity.lb"
 -'  6  43  ~/EYConnect/entity.lb
 |4,39,6,43,1693265211,"~/EYConnect/entity.lb"
 -'  2  35  ~/EYConnect/entity.lb
 |4,39,2,35,1693265184,"~/EYConnect/entity.lb"
 -'  2  35  ~/EYConnect/entity.lb
 |4,39,2,35,1693265184,"~/EYConnect/entity.lb"
+-'  2  35  ~/EYConnect/entity.lb
+|4,39,2,35,1693265184,"~/EYConnect/entity.lb"
+-'  2  35  ~/EYConnect/entity.lb
+|4,39,2,35,1693265184,"~/EYConnect/entity.lb"
+-'  2  35  ~/EYConnect/entity.lb
+|4,39,2,35,1693265184,"~/EYConnect/entity.lb"
+-'  2  35  ~/EYConnect/entity.lb
+|4,39,2,35,1693265184,"~/EYConnect/entity.lb"
+-'  2  35  ~/EYConnect/entity.lb
+|4,39,2,35,1693265184,"~/EYConnect/entity.lb"
+-'  2  35  ~/EYConnect/entity.lb
+|4,39,2,35,1693265184,"~/EYConnect/entity.lb"
 -'  8  0  ~/EYConnect/dhk
 |4,39,8,0,1693265174,"~/EYConnect/dhk"
 -'  8  0  ~/EYConnect/dhk
@@ -74,6 +106,54 @@
 |4,39,8,0,1693265174,"~/EYConnect/dhk"
 -'  8  0  ~/EYConnect/dhk
 |4,39,8,0,1693265174,"~/EYConnect/dhk"
+-'  8  0  ~/EYConnect/dhk
+|4,39,8,0,1693265174,"~/EYConnect/dhk"
+-'  8  0  ~/EYConnect/dhk
+|4,39,8,0,1693265174,"~/EYConnect/dhk"
+-'  8  0  ~/EYConnect/dhk
+|4,39,8,0,1693265174,"~/EYConnect/dhk"
+-'  8  0  ~/EYConnect/dhk
+|4,39,8,0,1693265174,"~/EYConnect/dhk"
+-'  8  0  ~/EYConnect/dhk
+|4,39,8,0,1693265174,"~/EYConnect/dhk"
+-'  8  0  ~/EYConnect/dhk
+|4,39,8,0,1693265174,"~/EYConnect/dhk"
+-'  8  0  ~/EYConnect/dhk
+|4,39,8,0,1693265174,"~/EYConnect/dhk"
+-'  8  0  ~/EYConnect/dhk
+|4,39,8,0,1693265174,"~/EYConnect/dhk"
+-'  8  0  ~/EYConnect/dhk
+|4,39,8,0,1693265174,"~/EYConnect/dhk"
+-'  8  0  ~/EYConnect/dhk
+|4,39,8,0,1693265174,"~/EYConnect/dhk"
+-'  8  0  ~/EYConnect/dhk
+|4,39,8,0,1693265174,"~/EYConnect/dhk"
+-'  8  0  ~/EYConnect/dhk
+|4,39,8,0,1693265174,"~/EYConnect/dhk"
+-'  1  0  ~/EYConnect/dhk
+|4,39,1,0,1693265139,"~/EYConnect/dhk"
+-'  1  0  ~/EYConnect/dhk
+|4,39,1,0,1693265139,"~/EYConnect/dhk"
+-'  1  0  ~/EYConnect/dhk
+|4,39,1,0,1693265139,"~/EYConnect/dhk"
+-'  1  0  ~/EYConnect/dhk
+|4,39,1,0,1693265139,"~/EYConnect/dhk"
+-'  1  0  ~/EYConnect/dhk
+|4,39,1,0,1693265139,"~/EYConnect/dhk"
+-'  1  0  ~/EYConnect/dhk
+|4,39,1,0,1693265139,"~/EYConnect/dhk"
+-'  1  0  ~/EYConnect/dhk
+|4,39,1,0,1693265139,"~/EYConnect/dhk"
+-'  1  0  ~/EYConnect/dhk
+|4,39,1,0,1693265139,"~/EYConnect/dhk"
+-'  1  0  ~/EYConnect/dhk
+|4,39,1,0,1693265139,"~/EYConnect/dhk"
+-'  1  0  ~/EYConnect/dhk
+|4,39,1,0,1693265139,"~/EYConnect/dhk"
+-'  1  0  ~/EYConnect/dhk
+|4,39,1,0,1693265139,"~/EYConnect/dhk"
+-'  1  0  ~/EYConnect/dhk
+|4,39,1,0,1693265139,"~/EYConnect/dhk"
 -'  1  0  ~/EYConnect/dhk
 |4,39,1,0,1693265139,"~/EYConnect/dhk"
 -'  1  0  ~/EYConnect/dhk
@@ -114,152 +194,81 @@
 |4,39,1,13,1693264631,"~/test1"
 -'  1  13  ~/test1
 |4,39,1,13,1693264631,"~/test1"
--'  2  28  ~/project24th/2ndtest
-|4,39,2,28,1693107908,"~/project24th/2ndtest"
--'  2  28  ~/project24th/2ndtest
-|4,39,2,28,1693107908,"~/project24th/2ndtest"
--'  2  28  ~/project24th/2ndtest
-|4,39,2,28,1693107908,"~/project24th/2ndtest"
--'  2  28  ~/project24th/2ndtest
-|4,39,2,28,1693107908,"~/project24th/2ndtest"
--'  2  28  ~/project24th/2ndtest
-|4,39,2,28,1693107908,"~/project24th/2ndtest"
--'  2  28  ~/project24th/2ndtest
-|4,39,2,28,1693107908,"~/project24th/2ndtest"
--'  2  28  ~/project24th/2ndtest
-|4,39,2,28,1693107908,"~/project24th/2ndtest"
--'  2  28  ~/project24th/2ndtest
-|4,39,2,28,1693107908,"~/project24th/2ndtest"
--'  2  28  ~/project24th/2ndtest
-|4,39,2,28,1693107908,"~/project24th/2ndtest"
--'  2  28  ~/project24th/2ndtest
-|4,39,2,28,1693107908,"~/project24th/2ndtest"
--'  2  28  ~/project24th/2ndtest
-|4,39,2,28,1693107908,"~/project24th/2ndtest"
--'  2  28  ~/project24th/2ndtest
-|4,39,2,28,1693107908,"~/project24th/2ndtest"
--'  2  28  ~/project24th/2ndtest
-|4,39,2,28,1693107908,"~/project24th/2ndtest"
--'  2  28  ~/project24th/2ndtest
-|4,39,2,28,1693107908,"~/project24th/2ndtest"
--'  2  28  ~/project24th/2ndtest
-|4,39,2,28,1693107908,"~/project24th/2ndtest"
--'  2  28  ~/project24th/2ndtest
-|4,39,2,28,1693107908,"~/project24th/2ndtest"
--'  2  28  ~/project24th/2ndtest
-|4,39,2,28,1693107908,"~/project24th/2ndtest"
--'  2  28  ~/project24th/2ndtest
-|4,39,2,28,1693107908,"~/project24th/2ndtest"
--'  2  28  ~/project24th/2ndtest
-|4,39,2,28,1693107908,"~/project24th/2ndtest"
--'  2  28  ~/project24th/2ndtest
-|4,39,2,28,1693107908,"~/project24th/2ndtest"
--'  2  28  ~/project24th/2ndtest
-|4,39,2,28,1693107908,"~/project24th/2ndtest"
--'  2  28  ~/project24th/2ndtest
-|4,39,2,28,1693107908,"~/project24th/2ndtest"
--'  2  28  ~/project24th/2ndtest
-|4,39,2,28,1693107908,"~/project24th/2ndtest"
--'  2  28  ~/project24th/2ndtest
-|4,39,2,28,1693107908,"~/project24th/2ndtest"
--'  2  28  ~/project24th/2ndtest
-|4,39,2,28,1693107908,"~/project24th/2ndtest"
--'  2  28  ~/project24th/2ndtest
-|4,39,2,28,1693107908,"~/project24th/2ndtest"
--'  2  28  ~/project24th/2ndtest
-|4,39,2,28,1693107908,"~/project24th/2ndtest"
--'  2  28  ~/project24th/2ndtest
-|4,39,2,28,1693107908,"~/project24th/2ndtest"
--'  2  28  ~/project24th/2ndtest
-|4,39,2,28,1693107908,"~/project24th/2ndtest"
--'  2  28  ~/project24th/2ndtest
-|4,39,2,28,1693107908,"~/project24th/2ndtest"
--'  2  28  ~/project24th/2ndtest
-|4,39,2,28,1693107908,"~/project24th/2ndtest"
--'  2  28  ~/project24th/2ndtest
-|4,39,2,28,1693107908,"~/project24th/2ndtest"
--'  1  0  ~/project24th/2ndtest
-|4,39,1,0,1693107890,"~/project24th/2ndtest"
--'  1  0  ~/project24th/2ndtest
-|4,39,1,0,1693107890,"~/project24th/2ndtest"
--'  1  0  ~/project24th/2ndtest
-|4,39,1,0,1693107890,"~/project24th/2ndtest"
--'  1  0  ~/project24th/2ndtest
-|4,39,1,0,1693107890,"~/project24th/2ndtest"
--'  1  0  ~/project24th/2ndtest
-|4,39,1,0,1693107890,"~/project24th/2ndtest"
--'  1  0  ~/project24th/2ndtest
-|4,39,1,0,1693107890,"~/project24th/2ndtest"
--'  1  0  ~/project24th/2ndtest
-|4,39,1,0,1693107890,"~/project24th/2ndtest"
--'  1  0  ~/project24th/2ndtest
-|4,39,1,0,1693107890,"~/project24th/2ndtest"
--'  1  0  ~/project24th/2ndtest
-|4,39,1,0,1693107890,"~/project24th/2ndtest"
--'  1  0  ~/project24th/2ndtest
-|4,39,1,0,1693107890,"~/project24th/2ndtest"
--'  1  0  ~/project24th/2ndtest
-|4,39,1,0,1693107890,"~/project24th/2ndtest"
--'  1  0  ~/project24th/2ndtest
-|4,39,1,0,1693107890,"~/project24th/2ndtest"
--'  1  0  ~/project24th/2ndtest
-|4,39,1,0,1693107890,"~/project24th/2ndtest"
--'  1  0  ~/project24th/2ndtest
-|4,39,1,0,1693107890,"~/project24th/2ndtest"
--'  1  0  ~/project24th/2ndtest
-|4,39,1,0,1693107890,"~/project24th/2ndtest"
--'  1  0  ~/project24th/2ndtest
-|4,39,1,0,1693107890,"~/project24th/2ndtest"
--'  1  0  ~/project24th/2ndtest
-|4,39,1,0,1693107890,"~/project24th/2ndtest"
--'  1  0  ~/project24th/2ndtest
-|4,39,1,0,1693107890,"~/project24th/2ndtest"
--'  1  0  ~/project24th/2ndtest
-|4,39,1,0,1693107890,"~/project24th/2ndtest"
--'  1  0  ~/project24th/2ndtest
-|4,39,1,0,1693107890,"~/project24th/2ndtest"
--'  1  0  ~/project24th/2ndtest
-|4,39,1,0,1693107890,"~/project24th/2ndtest"
--'  1  0  ~/project24th/2ndtest
-|4,39,1,0,1693107890,"~/project24th/2ndtest"
--'  1  0  ~/project24th/2ndtest
-|4,39,1,0,1693107890,"~/project24th/2ndtest"
--'  1  0  ~/project24th/2ndtest
-|4,39,1,0,1693107890,"~/project24th/2ndtest"
--'  1  0  ~/project24th/2ndtest
-|4,39,1,0,1693107890,"~/project24th/2ndtest"
--'  1  0  ~/project24th/2ndtest
-|4,39,1,0,1693107890,"~/project24th/2ndtest"
--'  1  0  ~/project24th/2ndtest
-|4,39,1,0,1693107890,"~/project24th/2ndtest"
--'  1  0  ~/project24th/2ndtest
-|4,39,1,0,1693107890,"~/project24th/2ndtest"
--'  1  0  ~/project24th/2ndtest
-|4,39,1,0,1693107890,"~/project24th/2ndtest"
--'  1  0  ~/project24th/2ndtest
-|4,39,1,0,1693107890,"~/project24th/2ndtest"
--'  1  0  ~/project24th/2ndtest
-|4,39,1,0,1693107890,"~/project24th/2ndtest"
--'  1  0  ~/project24th/2ndtest
-|4,39,1,0,1693107890,"~/project24th/2ndtest"
--'  2  4  ~/project24th/.gitignore
-|4,39,2,4,1693106065,"~/project24th/.gitignore"
--'  2  4  ~/project24th/.gitignore
-|4,39,2,4,1693106065,"~/project24th/.gitignore"
--'  2  4  ~/project24th/.gitignore
-|4,39,2,4,1693106065,"~/project24th/.gitignore"
--'  2  4  ~/project24th/.gitignore
-|4,39,2,4,1693106065,"~/project24th/.gitignore"
--'  2  4  ~/project24th/.gitignore
-|4,39,2,4,1693106065,"~/project24th/.gitignore"
--'  2  4  ~/project24th/.gitignore
-|4,39,2,4,1693106065,"~/project24th/.gitignore"
--'  2  4  ~/project24th/.gitignore
-|4,39,2,4,1693106065,"~/project24th/.gitignore"
--'  2  4  ~/project24th/.gitignore
-|4,39,2,4,1693106065,"~/project24th/.gitignore"
+-'  1  13  ~/test1
+|4,39,1,13,1693264631,"~/test1"
+-'  1  13  ~/test1
+|4,39,1,13,1693264631,"~/test1"
+-'  1  13  ~/test1
+|4,39,1,13,1693264631,"~/test1"
+-'  1  13  ~/test1
+|4,39,1,13,1693264631,"~/test1"
+-'  1  13  ~/test1
+|4,39,1,13,1693264631,"~/test1"
+-'  1  13  ~/test1
+|4,39,1,13,1693264631,"~/test1"
+-'  1  13  ~/test1
+|4,39,1,13,1693264631,"~/test1"
+-'  1  13  ~/test1
+|4,39,1,13,1693264631,"~/test1"
+-'  1  13  ~/test1
+|4,39,1,13,1693264631,"~/test1"
+-'  1  13  ~/test1
+|4,39,1,13,1693264631,"~/test1"
+-'  1  13  ~/test1
+|4,39,1,13,1693264631,"~/test1"
+-'  1  13  ~/test1
+|4,39,1,13,1693264631,"~/test1"
+-'  1  13  ~/test1
+|4,39,1,13,1693264631,"~/test1"
+-'  1  13  ~/test1
+|4,39,1,13,1693264631,"~/test1"
+-'  1  13  ~/test1
+|4,39,1,13,1693264631,"~/test1"
+-'  1  13  ~/test1
+|4,39,1,13,1693264631,"~/test1"
+-'  1  13  ~/test1
+|4,39,1,13,1693264631,"~/test1"
+-'  1  13  ~/test1
+|4,39,1,13,1693264631,"~/test1"
+-'  1  13  ~/test1
+|4,39,1,13,1693264631,"~/test1"
+-'  1  13  ~/test1
+|4,39,1,13,1693264631,"~/test1"
+-'  1  13  ~/test1
+|4,39,1,13,1693264631,"~/test1"
+-'  1  13  ~/test1
+|4,39,1,13,1693264631,"~/test1"
+-'  1  13  ~/test1
+|4,39,1,13,1693264631,"~/test1"
+-'  1  13  ~/test1
+|4,39,1,13,1693264631,"~/test1"
+-'  1  13  ~/test1
+|4,39,1,13,1693264631,"~/test1"
+-'  1  13  ~/test1
+|4,39,1,13,1693264631,"~/test1"
+-'  1  13  ~/test1
+|4,39,1,13,1693264631,"~/test1"
+-'  1  13  ~/test1
+|4,39,1,13,1693264631,"~/test1"
+-'  1  13  ~/test1
+|4,39,1,13,1693264631,"~/test1"
+-'  1  13  ~/test1
+|4,39,1,13,1693264631,"~/test1"
+-'  1  13  ~/test1
+|4,39,1,13,1693264631,"~/test1"
+-'  1  13  ~/test1
+|4,39,1,13,1693264631,"~/test1"
 
 # History of marks within files (newest to oldest):
+
+> ~/Project29th/index1.html
+	*	1693351916	0
+	"	2	62
+	^	2	63
+	.	2	62
+	+	2	0
+	+	1	1
+	+	2	62
 
 > ~/EYConnect/entity.lb
 	*	1693265407	0
