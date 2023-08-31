@@ -1,22 +1,3 @@
-chdir myprojects
-mkdir myprojects
-cd myproject
-git status
-git add test1.html
-git status
-git commit
-cd myproject
-ls
-git status
-git commit "Test file"
-git commit -m "adding new file"
-git status
-git version
-git al
-git status
-git stage test2.html
-git status
-git commit -m "Another file"
 exit
 yum install git -y
 git version
@@ -872,3 +853,148 @@ cd
 cd
 clear
 
+ls
+cd project24th
+git status
+git commit -m "2nd Test committed"
+git status
+cd
+git status
+cd testproj29th
+git status
+ls
+cd
+cd Project29th
+ls
+git status
+git committ -m "committed"
+git commit -m "committed"
+git status
+git branch
+git checkout ls
+git status
+git add -A
+git status
+git commit -m "done on commit"
+git status
+git checkout ls
+git branch
+ls
+git merge master
+ls
+cat index1.html
+vim index1.html
+cat index1.html
+git checkout master
+ls
+cat index1.html
+vim index1.html
+git add .
+git status
+git commit -m "1st commit"
+git status
+git addv -A
+git add -A
+git commit -m "2nd commit"
+git status
+cat index1.html
+git checkout master
+git checkout ls
+ls
+cd index1.html
+cat index1.html
+vim index1.html
+git add .
+git status
+git add -A
+git commit -m "This is committed under ls branch for index1.html"
+git status
+cat index1.html
+git checkout master
+cat index1.html
+git checkout ls
+git merge ls
+cat index1.html
+git merge master
+git checkout master
+git branch
+ls
+cat index1.html
+git merge ls
+cat index1.html
+vim index1.html
+cat index1.html
+vim index1.html
+cat index1.html
+vim index1.html
+cat index1.html
+vim index1.html
+git add .
+git status
+git commit -m "merge resolved"
+cat index1.html
+ls
+git branch
+git checkout master
+ls
+vim index1.html
+git commit -m "added"
+git checkout master
+git merge ls
+ls
+git merge --abort
+git checkout master
+ls
+cat index1.html
+git merge ls
+git status
+git checkout ls
+git merge --abort
+git checkout ls
+ls
+cat index1.html
+git branch
+cat index1.html
+git merge ls
+cat index1.html
+git checkout master
+cat index1.html
+git merge ls
+cat index1.html
+git checkout ls
+vim index1.html
+git add .
+git commit -m "c"
+cat index1.html
+vim index1.html
+cat index1.html
+git diff 
+1
+cat index1.html
+vim index1.html
+git commit -m "ad"
+vim index1.html
+git add -A
+git status
+git commit -m "done"
+cat index1.html
+git merge master
+git merge ls
+git branch
+git checkout ls
+git branch
+ls
+cat index1.html
+git checkout master
+git branch
+ls
+cat index1.html
+git merge ls
+git checkout ls
+git merge master
+git branch
+ls
+cat index1.html
+git checkout master
+git branch
+clear
