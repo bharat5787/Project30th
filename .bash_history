@@ -1,97 +1,3 @@
-exit
-yum install git -y
-git version
-mkdir myproject
-ls
-touch index1.html index2.html
-ls
-cd myproject
-touch test1.html test2.html
-git init
-ls -al
-Password123
-sudo su -
-cd myproject
-git log
-git status
-git config --global user.name bharat5787
-git config --list
-git config --global user.email sinha.bharat5@gmail.com
-git config --list
-touch newfile1
-git commit -m "TEST ADDED"
-git stage
-git config --list
-cat ~/.gitconfig
-git config --global --edit user.name abc123
-git config --global --edit
-git config --list
-git config --global user.name abc123
-git config
-cat ~/.gitconfig
-git config --list
-git --list
-git config --global user.name qwet
-cd myproject
-git status
-exit
-cd myproject
-git config --list
-git config --global user.name lkjh
-git init
-exit
-git init
-git config --system user.name apple
-git init
-git status
-log out
-exit
-git init
-cd myproject
-git version
-cd
-cd newprojects
-cd newproject
-cd newprojects
-mkdir newfile
-cd newfile
-touch index1.html index2.html
-git init
-git status
-git version
-ls
-ls -al
-git
-vim index1.html
-ls
-cd index1.html
-index1.html
-git init
-git config -list
-cd
-cd newprojects
-cd newfile
-git init
-cd myproject
-cd myprojects
-cd newfile
-git init
-cd
-git init
-exit
-cd myproject
-mkdir myproject
-cd myproject
-cd
-cd myproject
-ls
-cat newfile1
-cat test1.html
-cat test2.html
-git init
-git version
-/.gitconfig
-ls -al
 .git
 git init
 git version
@@ -997,4 +903,98 @@ ls
 cat index1.html
 git checkout master
 git branch
+clear
+ls
+mkdir project30th
+cd project30th
+git branch
+git checkout ls
+git branch
+touch testindex1.html testindex2.html
+cat testindex1.html
+vim testindex1.html
+git add .
+git commit -m "committed"
+git status
+git add -A
+git commit -m "all committed"
+git status
+cat testindex1.html
+vim testindex1.html
+ls
+git checkout master
+git add -A
+git commit -m "committed"
+git status
+git checkout master
+ls
+git merge master
+ls
+git merge ls
+ls
+git branch
+cat testindex1.html
+vim testindex1.html
+git add -A
+git commit -m "commited under master"
+git status
+git checkout ls
+git merge master
+ls
+cat testindex1.html
+git remote Origin https://github.com/bharat5787/Project30th.git
+git remote -V
+git remote -v
+git remote add origin https://github.com/bharat5787/Project30th.git
+ls
+git push origin ls
+ls
+git checkout master
+ls
+git push origin master
+git remote -v
+touch index2.html index4.html
+ls
+git branch
+git push origin master
+git add -A
+git commit -m "added commit"
+git push origin master
+git checkout ls
+ls
+touch testtest1.html
+git push origin ls
+git add -A
+git commit -m "message"
+git push origin ls
+git pull origin ls
+ls
+git checkout master
+ls
+git merge ls
+git checkout ls
+git branch
+ls
+git add -A
+git commit -m "github committed"
+git checkout master
+git merge master
+git merge ls
+ls
+cat githubtestfiel30th
+cat githubtestfile30th
+vim githubtestfile30th
+git add -A
+git commit -m "master committed"
+cat githubtestfile30th
+vim githubtestfile30th
+git add -A
+git commit -m "committed"
+cat githubtestfile30th
+git checkout ls
+git branch
+ls
+git merge master
+cat githubtestfile30th
+git push origin ls
 clear
